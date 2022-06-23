@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960837567880",
+    "project_id": "dota-w",
+    "storage_bucket": "dota-w.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960837567880:android:c57e3bbfe3107475aee63d",
+        "android_client_info": {
+          "package_name": "com.example.dota_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960837567880-dlkl2kcofrh1gh7o2r6qplppgc91u42i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZD-qL79ZPd7ShW66EIypAfWin38d_KDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960837567880-dlkl2kcofrh1gh7o2r6qplppgc91u42i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
